@@ -1,7 +1,7 @@
 /* 
  * Coded by Lin Menghan from XJTU
  * linmh0130@stu.xjtu.edu.cn
- * All with His help!
+ * With you like it!
  */
 package fxmediaplayer;
 
